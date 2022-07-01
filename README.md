@@ -10,5 +10,5 @@ El repositorio utilizado para la app de Node es: https://github.com/josemiguelgo
 </br>
 Mi práctica de Node no me gustaba y he decidido utilizar esta.
 </br>
-Enlace http para ver desplegada la app de Node de NodeChat: http://52.205.253.138:8080/
+Enlace http para ver desplegada la app de Node de NodeChat: http://52.205.253.138/
 
